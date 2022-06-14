@@ -3,52 +3,32 @@
     "countGoods": 2,
     "contents": [
         {
-            "id_product": 123,
-            "product_name": "Ноутбук",
-            "price": 45600,
-            "quantity": 20
-        },
-        {
+            "quantity": 1,
             "id_product": 456,
+            "img": "/img/gaming-mouse.png",
             "product_name": "Мышка",
-            "price": 1000,
-            "quantity": 12
+            "price": 1000
         },
         {
-            "quantity": 6,
-            "id_product": 457,
-            "product_name": "Gamepad",
-            "price": 3000
-        },
-        {
-            "quantity": 20,
-            "id_product": 124,
-            "product_name": "Keyboard",
-            "price": 1600
-        },
-        {
-            "quantity": 1,
-            "id_product": 124,
-            "product_name": "Keyboard",
-            "price": 1600
-        },
-        {
-            "quantity": 1,
-            "id_product": 457,
-            "product_name": "Gamepad",
-            "price": 3000
-        },
-        {
-            "quantity": 1,
+            "quantity": 3,
             "id_product": 123,
+            "img": "/img/nout.png",
             "product_name": "Ноутбук",
             "price": 45600
         },
         {
             "quantity": 1,
-            "id_product": 456,
-            "product_name": "Мышка",
-            "price": 1000
+            "id_product": 457,
+            "img": "/img/game-console.png",
+            "product_name": "Gamepad",
+            "price": 3000
+        },
+        {
+            "quantity": 1,
+            "id_product": 124,
+            "img": "/img/gaming-keyboard.png",
+            "product_name": "Keyboard",
+            "price": 1600
         }
     ]
 }

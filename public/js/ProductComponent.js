@@ -25,7 +25,7 @@ Vue.component('products', {
    template: `<div class="products">
                 <product v-for="item of filtered" 
                 :key="item.id_product" 
-                :img="imgProduct"
+                :img="item.img"
                 :product="item"
                 @add-product="$parent.$refs.cart.addProduct"></product>
                </div>`
